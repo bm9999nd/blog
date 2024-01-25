@@ -1,0 +1,1 @@
+import{Ma as o,Na as r,Va as i,Y as n,ab as c}from"./chunk-VVJFVJZT.js";var d=(()=>{let e=class e{};e.\u0275fac=function(a){return new(a||e)},e.\u0275cmp=n({type:e,selectors:[["app-calculator-trade"]],standalone:!0,features:[c],decls:2,vars:0,template:function(a,s){a&1&&(o(0,"p"),i(1,"calculator-trade works!"),r())}});let t=e;return t})();export{d as CalculatorTradeComponent};
