@@ -1,1 +1,0 @@
-import"./chunk-5FZOKLP6.js";var a=[{path:"",pathMatch:"full",redirectTo:"data"},{path:"data",title:"Data",loadComponent:()=>import("./chunk-7YI3GF3G.js").then(t=>t.DataComponent)}];export{a as routes};

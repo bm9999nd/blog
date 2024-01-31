@@ -1,1 +1,0 @@
-import{Ja as o,Ka as i,T as a,Va as r,ab as s}from"./chunk-SQM3DOS6.js";import"./chunk-5FZOKLP6.js";var m=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=a({type:e,selectors:[["app-data"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,d){n&1&&(o(0,"p"),r(1,"data works!"),i())}});let t=e;return t})();export{m as DataComponent};
