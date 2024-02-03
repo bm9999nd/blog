@@ -1,1 +1,0 @@
-import"./chunk-5FZOKLP6.js";var o=[{path:"",pathMatch:"prefix",redirectTo:"home"},{path:"home",title:"Home",loadComponent:()=>import("./chunk-3J4TSLI7.js").then(t=>t.HomeComponent)},{path:"edit",title:"Editor",loadComponent:()=>import("./chunk-KS7YNMVE.js").then(t=>t.RawComponent)}];export{o as routes};
