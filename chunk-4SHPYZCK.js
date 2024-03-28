@@ -1,0 +1,1 @@
+import"./chunk-VHCA6YAO.js";var n=[{path:"",pathMatch:"full",redirectTo:"run"},{path:"run",title:"Run",loadComponent:()=>import("./chunk-WEQMBQVT.js").then(t=>t.RunComponent)},{path:"setting",title:"Settings",loadComponent:()=>import("./chunk-4T3WUS4Y.js").then(t=>t.SettingComponent)}];export{n as routes};

@@ -1,0 +1,1 @@
+import{Oa as i,Pa as r,V as o,fb as a,mb as s}from"./chunk-IIZCY6ZS.js";import"./chunk-VHCA6YAO.js";var p=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["linker-themes"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,c){n&1&&(i(0,"p"),a(1,"themes works!"),r())}});let t=e;return t})();export{p as ThemesComponent};
